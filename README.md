@@ -25,7 +25,7 @@ backend/   API REST Spring Boot
 frontend/  Aplicacao Angular
 deploy/    Arquivos auxiliares de deploy
 ```
-
+ 
 ## Pre-requisitos
 
 - Java 21
